@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\bin\Debug\netcoreapp3.1\Graphical_Programming_Language.exe
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\bin\Debug\netcoreapp3.1\Graphical_Programming_Language.deps.json
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\bin\Debug\netcoreapp3.1\Graphical_Programming_Language.runtimeconfig.json
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\bin\Debug\netcoreapp3.1\Graphical_Programming_Language.runtimeconfig.dev.json
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\bin\Debug\netcoreapp3.1\Graphical_Programming_Language.dll
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\bin\Debug\netcoreapp3.1\Graphical_Programming_Language.pdb
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\obj\Debug\netcoreapp3.1\Graphical_Programming_Language.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\obj\Debug\netcoreapp3.1\Graphical_Programming_Language.Form1.resources
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\obj\Debug\netcoreapp3.1\Graphical_Programming_Language.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\obj\Debug\netcoreapp3.1\Graphical_Programming_Language.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\obj\Debug\netcoreapp3.1\Graphical_Programming_Language.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\obj\Debug\netcoreapp3.1\Graphical_Programming_Language.AssemblyInfo.cs
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\obj\Debug\netcoreapp3.1\Graphical_Programming_Language.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\obj\Debug\netcoreapp3.1\Graphical_Programming_Language.dll
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\obj\Debug\netcoreapp3.1\Graphical_Programming_Language.pdb
+C:\Users\User\source\repos\Graphical_Programming_Language\Graphical_Programming_Language\obj\Debug\netcoreapp3.1\Graphical_Programming_Language.genruntimeconfig.cache
